@@ -1,4 +1,4 @@
-# Kanji Master (JLPT N5–N1) 漢
+# ⛩️ Kanji Master (JLPT N5–N1) 漢
 
 **Master all 2,128 core Japanese Kanji—100% offline, ad-free, and built for serious JLPT learners.**
 
