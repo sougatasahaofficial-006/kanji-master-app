@@ -5,6 +5,9 @@
 **Kanji Master** is a fast, distraction-free Japanese Kanji and vocabulary study app covering the complete **JLPT N5 through N1 curriculum** (**1,275 structured lessons**). Whether you are learning your very first stroke in N5 or polishing advanced N1 vocabulary on a commute with zero internet, everything runs instantaneously on your device.
 
 ---
+![Level Selection](screenshots/01-levels.jpg) ![Lesson List](screenshots/02-lessons.jpg) ![Custom Review](screenshots/03-custom-review.jpg) ![N5 Kanji Grid](screenshots/04-kanji-grid.jpg) ![Settings General](screenshots/05-settings-general.jpg) ![Settings Formats](screenshots/06-settings-formats.jpg) ![Kana Quiz](screenshots/07-quiz-kana.jpg) ![Meaning Quiz](screenshots/08-quiz-meaning.jpg) ![Writing Practice](screenshots/09-writing-practice.jpg)
+
+---
 
 ## ✨ Why Kanji Master?
 
