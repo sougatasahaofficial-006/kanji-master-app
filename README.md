@@ -6,23 +6,7 @@
 
 ---
 # Kanji Master (JLPT N5–N1) UI Screenshots
-![Level Selection](screenshots/01-levels.jpg)
-
-![Lesson List](screenshots/02-lessons.jpg)
-
-![Custom Review](screenshots/03-custom-review.jpg)
-
-![N5 Kanji Grid](screenshots/04-kanji-grid.jpg)
-
-![Kana Quiz](screenshots/07-quiz-kana.jpg)
-
-![Meaning Quiz](screenshots/08-quiz-meaning.jpg)
-
-![Writing Practice](screenshots/09-writing-practice.jpg)
-
-![Settings General](screenshots/05-settings-general.jpg)
-
-![Settings Formats](screenshots/06-settings-formats.jpg)
+![Level Selection](screenshots/01-levels.jpg) ![Lesson List](screenshots/02-lessons.jpg) ![Custom Review](screenshots/03-custom-review.jpg) ![N5 Kanji Grid](screenshots/04-kanji-grid.jpg) ![Kana Quiz](screenshots/07-quiz-kana.jpg) ![Meaning Quiz](screenshots/08-quiz-meaning.jpg) ![Writing Practice](screenshots/09-writing-practice.jpg) ![Settings General](screenshots/05-settings-general.jpg) ![Settings Formats](screenshots/06-settings-formats.jpg)
 
 ---
 
