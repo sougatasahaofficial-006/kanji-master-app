@@ -6,7 +6,7 @@
 
 ---
 # Kanji Master (JLPT N5–N1) UI Screenshots
-![Interface](screenshots/Ui.png)
+![Interface](Ui.png)
 
 ---
 
